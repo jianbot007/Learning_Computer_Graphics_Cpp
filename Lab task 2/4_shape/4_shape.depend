@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1730187242 source:c:\users\user\onedrive\desktop\flag\main.cpp
+1730788121 source:d:\graphics lab\learning_computer_graphics_cpp\lab task 2\4_shape\main.cpp
 	<windows.h>
 	<GL/glut.h>
 	<cmath>
@@ -873,9 +873,4 @@
 
 1526093414 c:\program files\codeblocks\mingw\x86_64-w64-mingw32\include\gl\glu.h
 	<GL/gl.h>
-
-1730187242 source:d:\graphics lab\learning_computer_graphics_cpp\flag\main.cpp
-	<windows.h>
-	<GL/glut.h>
-	<cmath>
 
