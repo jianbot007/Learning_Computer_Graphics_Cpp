@@ -26,7 +26,7 @@ void drawSquare(double x, double y, bool isBlack) {
 
 
 void drawCheckerboard() {
-    int rows = 4, cols = 4; // Number of rows and columns for the checkerboard
+    int rows = 4, cols = 4;
 
     for (int i = 0; i < rows; i++) {
         for (int j = 0; j < cols; j++) {
@@ -42,17 +42,29 @@ void drawCheckerboard() {
     }
 }
 
+void Lines(){
+    glBegin(GL_LINE_LOOP);
+    glColor3f(1.0f, 1.0f, 1.0f);
+
+     glVertex2d(-2,4);
+    glVertex2d(2, 4);
+    glVertex2d(2, 0);
+    glVertex2d(-2, 0);
+    glEnd();
+}
+
 
 void display() {
     glClear(GL_COLOR_BUFFER_BIT);
     drawCheckerboard();
+    Lines();
     glFlush();
 }
 
 
 int main(int argc, char** argv) {
     glutInit(&argc, argv);
-    glutCreateWindow("Checkerboard Example");
+    glutCreateWindow("Chessboard");
     glutInitWindowSize(720, 720);
     glutDisplayFunc(display);
     gluOrtho2D(-6, 6, -6, 6);

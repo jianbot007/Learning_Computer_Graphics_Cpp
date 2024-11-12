@@ -3,8 +3,8 @@
 #include <cmath> // GLUT, include glu.h and gl.h
 
 void Board1(){
-    glBegin(GL_QUADS);              // Each set of 4 vertices form a quad
-    glColor3f(0.0f, 0.0f, 0.0f); // Red
+    glBegin(GL_QUADS);
+    glColor3f(0.0f, 0.0f, 0.0f);
 
     glVertex2d(-2, 4);
     glVertex2d(-1, 4);
@@ -15,8 +15,8 @@ void Board1(){
     glEnd();
 }
 void Board2(){
-    glBegin(GL_QUADS);              // Each set of 4 vertices form a quad
-    glColor3f(1.0f, 1.0f, 1.0f); // Red
+    glBegin(GL_QUADS);
+    glColor3f(1.0f, 1.0f, 1.0f);
 
     glVertex2d(-1,4);
     glVertex2d(0, 4);
@@ -27,8 +27,8 @@ void Board2(){
     glEnd();
 }
 void Board3(){
-    glBegin(GL_QUADS);              // Each set of 4 vertices form a quad
-    glColor3f(0.0f, 0.0f, 0.0f); // Red
+    glBegin(GL_QUADS);
+    glColor3f(0.0f, 0.0f, 0.0f);
 
     glVertex2d(0,4);
     glVertex2d(1, 4);
@@ -39,9 +39,8 @@ void Board3(){
     glEnd();
 }
 void Board4(){
-    glBegin(GL_QUADS);              // Each set of 4 vertices form a quad
-    glColor3f(1.0f, 1.0f, 1.0f); // Red
-
+    glBegin(GL_QUADS);
+    glColor3f(1.0f, 1.0f, 1.0f);
     glVertex2d(1,4);
     glVertex2d(2, 4);
     glVertex2d(2, 3);
@@ -51,8 +50,8 @@ void Board4(){
     glEnd();
 }
 void Board5(){
-    glBegin(GL_QUADS);              // Each set of 4 vertices form a quad
-    glColor3f(0.0f, 0.0f, 0.0f); // Red
+    glBegin(GL_QUADS);
+    glColor3f(0.0f, 0.0f, 0.0f);
 
     glVertex2d(1,3);
     glVertex2d(2, 3);
@@ -64,8 +63,8 @@ void Board5(){
 }
 
 void Board6(){
-    glBegin(GL_QUADS);              // Each set of 4 vertices form a quad
-    glColor3f(1.0f, 1.0f, 1.0f); // Red
+    glBegin(GL_QUADS);
+    glColor3f(1.0f, 1.0f, 1.0f);
 
     glVertex2d(0,3);
     glVertex2d(1, 3);
@@ -77,8 +76,8 @@ void Board6(){
 }
 
 void Board7(){
-    glBegin(GL_QUADS);              // Each set of 4 vertices form a quad
-    glColor3f(0.0f, 0.0f, 0.0f); // Red
+    glBegin(GL_QUADS);
+    glColor3f(0.0f, 0.0f, 0.0f);
 
     glVertex2d(-1,3);
     glVertex2d(0, 3);
@@ -89,8 +88,8 @@ void Board7(){
     glEnd();
 }
 void Board8(){
-    glBegin(GL_QUADS);              // Each set of 4 vertices form a quad
-    glColor3f(1.0f, 1.0f, 1.0f); // Red
+    glBegin(GL_QUADS);
+    glColor3f(1.0f, 1.0f, 1.0f);
 
     glVertex2d(-2,3);
     glVertex2d(-1, 3);
@@ -101,11 +100,11 @@ void Board8(){
     glEnd();
 }
 
-//row2
+
 
 void Board9(){
-    glBegin(GL_QUADS);              // Each set of 4 vertices form a quad
-    glColor3f(0.0f, 0.0f, 0.0f); // Red
+    glBegin(GL_QUADS);
+    glColor3f(0.0f, 0.0f, 0.0f);
 
     glVertex2d(-2,2);
     glVertex2d(-1, 2);
@@ -117,8 +116,8 @@ void Board9(){
 }
 
 void Board10(){
-    glBegin(GL_QUADS);              // Each set of 4 vertices form a quad
-    glColor3f(1.0f, 1.0f, 1.0f); // Red
+    glBegin(GL_QUADS);
+    glColor3f(1.0f, 1.0f, 1.0f);
 
     glVertex2d(-1,2);
     glVertex2d(0, 2);
@@ -129,9 +128,8 @@ void Board10(){
     glEnd();
 }
 void Board11(){
-    glBegin(GL_QUADS);              // Each set of 4 vertices form a quad
-    glColor3f(0.0f, 0.0f, 0.0f); // Red
-
+    glBegin(GL_QUADS);
+    glColor3f(0.0f, 0.0f, 0.0f);
     glVertex2d(0,2);
     glVertex2d(1, 2);
     glVertex2d(1, 1);
@@ -141,9 +139,8 @@ void Board11(){
     glEnd();
 }
 void Board12(){
-    glBegin(GL_QUADS);              // Each set of 4 vertices form a quad
-    glColor3f(1.0f, 1.0f, 1.0f); // Red
-
+    glBegin(GL_QUADS);
+    glColor3f(1.0f, 1.0f, 1.0f);
     glVertex2d(1,2);
     glVertex2d(2, 2);
     glVertex2d(2, 1);
@@ -153,8 +150,8 @@ void Board12(){
     glEnd();
 }
 void Board13(){
-    glBegin(GL_QUADS);              // Each set of 4 vertices form a quad
-    glColor3f(0.0f, 0.0f, 0.0f); // Red
+    glBegin(GL_QUADS);
+    glColor3f(0.0f, 0.0f, 0.0f);
 
     glVertex2d(1,1);
     glVertex2d(2, 1);
@@ -165,8 +162,8 @@ void Board13(){
     glEnd();
 }
 void Board14(){
-    glBegin(GL_QUADS);              // Each set of 4 vertices form a quad
-    glColor3f(1.0f, 1.0f, 1.0f); // Red
+    glBegin(GL_QUADS);
+    glColor3f(1.0f, 1.0f, 1.0f);
 
     glVertex2d(0,1);
     glVertex2d(1, 1);
@@ -177,8 +174,8 @@ void Board14(){
     glEnd();
 }
 void Board15(){
-    glBegin(GL_QUADS);              // Each set of 4 vertices form a quad
-    glColor3f(0.0f, 0.0f, 0.0f); // Red
+    glBegin(GL_QUADS);
+    glColor3f(0.0f, 0.0f, 0.0f);
 
     glVertex2d(-1,1);
     glVertex2d(0, 1);
@@ -189,8 +186,8 @@ void Board15(){
     glEnd();
 }
 void Board16(){
-    glBegin(GL_QUADS);              // Each set of 4 vertices form a quad
-    glColor3f(1.0f, 1.0f, 1.0f); // Red
+    glBegin(GL_QUADS);
+    glColor3f(1.0f, 1.0f, 1.0f);
 
     glVertex2d(-2,1);
     glVertex2d(-1, 1);
@@ -200,7 +197,16 @@ void Board16(){
 
     glEnd();
 }
+ void Lines(){
+    glBegin(GL_LINE_LOOP);              // Each set of 4 vertices form a quad
+    glColor3f(0.0f, 0.0f, 0.0f); // Red
 
+     glVertex2d(-2,4);
+    glVertex2d(2, 4);
+    glVertex2d(2, 0);
+    glVertex2d(-2, 0);
+    glEnd();
+}
 void display()
 {
     glClearColor(1.0f, 1.0f, 1.0f, 0.0f); // Set background color to white and opaque
@@ -219,6 +225,7 @@ void display()
     Board11();
     Board12();
     Board13();Board14();Board15();Board16();
+    Lines();
 
 
 
@@ -236,7 +243,7 @@ int main(int argc, char** argv)
 {
     glutInit(&argc, argv);                 // Initialize GLUT
     glutInitWindowSize(720, 720);
-    glutCreateWindow("4 shapes"); // Create a window with the given title
+    glutCreateWindow("Cheeseboard(manual)"); // Create a window with the given title
     // Set the window's initial width & height
     glutDisplayFunc(display);
     gluOrtho2D(-6,6,-6,6);// Register display callback handler for window re-paint

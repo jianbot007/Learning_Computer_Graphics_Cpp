@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1731137447 source:d:\graphics lab\learning_computer_graphics_cpp\lab task 2\square\online task 2\main.cpp
+1731394350 source:d:\graphics lab\learning_computer_graphics_cpp\online class task\bat\main.cpp
 	<windows.h>
 	<GL/glut.h>
 	<cmath>
