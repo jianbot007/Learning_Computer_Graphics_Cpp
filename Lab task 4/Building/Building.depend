@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1732000186 source:d:\graphics lab\learning_computer_graphics_cpp\lab task 4\tree\main.cpp
+1731999791 source:d:\graphics lab\learning_computer_graphics_cpp\lab task 4\building\main.cpp
 	<windows.h>
 	<GL/glut.h>
 	<cmath>
