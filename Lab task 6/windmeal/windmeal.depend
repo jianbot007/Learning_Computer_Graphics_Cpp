@@ -1,21 +1,13 @@
 # depslib dependency file v1.0
-1730181255 source:c:\users\user\onedrive\desktop\lab task 1 (square and rectangle)\main.cpp
-	<windows.h>
-	<GL/glut.h>
-
-1632060800 c:\program files\codeblocks\mingw\x86_64-w64-mingw32\include\gl\glut.h
-	"freeglut_std.h"
-
-1632060797 c:\program files\codeblocks\mingw\x86_64-w64-mingw32\include\gl\freeglut_std.h
-	<windows.h>
-	<EGL/egl.h>
-	<GLES/gl.h>
-	<GLES2/gl2.h>
-	<OpenGL/gl.h>
-	<OpenGL/glu.h>
+1735579214 source:d:\graphics lab\learning_computer_graphics_cpp\lab task 6\windmeal\main.cpp
+	<iostream>
 	<GL/gl.h>
-	<GL/glu.h>
-	<stdlib.h>
+	<GL/glut.h>
+	<math.h>
+
+1526093414 c:\program files\codeblocks\mingw\x86_64-w64-mingw32\include\gl\gl.h
+	<windows.h>
+	<stddef.h>
 
 1526093414 c:\program files\codeblocks\mingw\x86_64-w64-mingw32\include\windows.h
 	<_mingw.h>
@@ -866,14 +858,23 @@
 1526093414 c:\program files\codeblocks\mingw\x86_64-w64-mingw32\include\imm.h
 	<_mingw_unicode.h>
 
-1526093414 c:\program files\codeblocks\mingw\x86_64-w64-mingw32\include\gl\gl.h
+1632060800 c:\program files\codeblocks\mingw\x86_64-w64-mingw32\include\gl\glut.h
+	"freeglut_std.h"
+
+1632060797 c:\program files\codeblocks\mingw\x86_64-w64-mingw32\include\gl\freeglut_std.h
 	<windows.h>
-	<stddef.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
 
 1526093414 c:\program files\codeblocks\mingw\x86_64-w64-mingw32\include\gl\glu.h
 	<GL/gl.h>
 
-1730181747 source:d:\graphics lab\learning_computer_graphics_cpp\lab task 1 (square and rectangle)\main.cpp
-	<windows.h>
-	<GL/glut.h>
+1526093416 c:\program files\codeblocks\mingw\x86_64-w64-mingw32\include\math.h
+	<crtdefs.h>
 

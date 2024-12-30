@@ -17,7 +17,6 @@ void display() {
 	glVertex2f(-.4f, 0.6f);
 	glVertex2f(-.4f, 0.3f);
 	glVertex2f(-0.7f, 0.3f);    // x, y
-	  // x, y
 
 	glEnd();
 
