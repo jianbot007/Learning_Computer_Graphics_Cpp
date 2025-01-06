@@ -1,9 +1,7 @@
 # depslib dependency file v1.0
-1735579467 source:d:\graphics lab\learning_computer_graphics_cpp\lab task 6\windmeal\main.cpp
-	<iostream>
-	<GL/gl.h>
+1736195737 source:d:\graphics lab\learning_computer_graphics_cpp\lab task 7\backgroundchange\main.cpp
+	<windows.h>
 	<GL/glut.h>
-	<math.h>
 
 1526093414 c:\program files\codeblocks\mingw\x86_64-w64-mingw32\include\gl\gl.h
 	<windows.h>
@@ -874,7 +872,4 @@
 
 1526093414 c:\program files\codeblocks\mingw\x86_64-w64-mingw32\include\gl\glu.h
 	<GL/gl.h>
-
-1526093416 c:\program files\codeblocks\mingw\x86_64-w64-mingw32\include\math.h
-	<crtdefs.h>
 
