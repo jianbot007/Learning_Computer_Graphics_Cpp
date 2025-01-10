@@ -67,6 +67,8 @@ void display() {
       drawRaindrop(-7.0f, raindropY); drawRaindrop(-6.0f, raindropY);
 
 
+
+
     glFlush();
 }
 
