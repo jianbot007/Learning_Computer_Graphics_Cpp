@@ -1,5 +1,5 @@
 # depslib dependency file v1.0
-1736231640 source:d:\graphics lab\learning_computer_graphics_cpp\lab task 8\weatherchange\main.cpp
+1736233135 source:d:\graphics lab\learning_computer_graphics_cpp\lab task 8\weatherchange\main.cpp
 	<GL/glut.h>
 	<cstdlib>
 	<ctime>
